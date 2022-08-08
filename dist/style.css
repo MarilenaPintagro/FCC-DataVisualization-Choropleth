@@ -1,0 +1,10 @@
+[id="tooltip"]{
+   position: relative;
+  display: inline-block;
+   background-color: limegreen;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: arial;
+}
